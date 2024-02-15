@@ -1,8 +1,37 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Dhammike+Premachandra.👋;Welcome+to+My+GitHub+Profile,;I+love+Data+Analysis.;I+love+extracting+insights.;I+love+learning.;I+am+Seeking+Oppertunities.;&center=true&width=500&height=70"></a>
+</p>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/SQL-00AED8.svg?style=for-the-badge&logo=SQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-000000.svg?style=for-the-badge&logo=tableau&logoColor=F7E017">
+  <img src="https://img.shields.io/badge/Excel-F26624.svg?style=for-the-badge&logo=excel&logoColor=white">
+  
+</div>
+</p>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLITE-2465F1.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-000000.svg?style=for-the-badge&logo=jupiter&logoColor=F37726">
+</div>
+</p>
+
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+<p align="center">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhammikePremachandra&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</p>
 
 
-# Welcome to Dhammike Premachandra's GitHub Profile! 🚀
-
+<div align="center">
+  <p>Profile Views Since 9th of Jan 2024:</p>
+</div>
+<p align="center"><img src="https://profile-counter.glitch.me/{DhammikePremachandra}/count.svg"></p>
 
 ## About Me ℹ️
 
@@ -24,16 +53,15 @@ With a strong foundation in both technical and analytical fields, I am excited t
 - **Tableau:** Skilled in creating visualizations using Tableau.
 - **Problem-Solving:** Strong problem-solving skills with a keen attention to detail.
 
-
 ## Projects
 
-Here are few projects I've worked on:
+Here are a few projects I've worked on:
 
 - [**SPACEX FALCON 9 LANDING PREDICTION**](https://github.com/DhammikePremachandra/Python/blob/main/Machine%20Learning%20Prediction%20-%20SPACEX%20FALCON%209%20LANDING%20PREDICTION.ipynb): In this portfolio project, I tackled the challenge of predicting the success of SpaceX Falcon 9 rocket landings. SpaceX's innovative approach of reusing the first stage of the Falcon 9 rockets significantly reduces the cost of space missions, making it a game-changer in the aerospace industry. 
-- [**Exploratory Data Analysis of Movie Dataset**](https://github.com/DhammikePremachandra/Python/blob/main/Movie%20Correlation%20Project.ipynb): In this portfolio project, I conducted an in-depth analysis of a movie dataset to uncover insights into the factors influencing movie success, including budget, gross earnings, ratings, and more. The project involved data extraction, cleaning, visualization, and correlation analysis using Python libraries such as pandas, numpy, seaborn, and matplotlib.
-- [**London Bike Sharing Dashboard**](https://public.tableau.com/app/profile/dhammike.premachandra/vizzes): In this portfolio project, I delved into the realm of data analysis and visualization to uncover usage patterns and enhance service efficiency for London bike sharing. Leveraging factors such as temperature, wind speed, and time of day, I designed and implemented a dynamic Tableau dashboard to provide actionable insights for stakeholders.
-- [**Nashville Housing Data Set Analysis**](https://github.com/DhammikePremachandra/SQL/blob/main/Data%20Cleaning_NashvilleHousing.sql): In this portfolio project, I conducted comprehensive data cleaning and analysis on the Nashville Housing data set using SQL. By applying various SQL operations such as JOIN, VIEW, data transformation, and filtering techniques, I extracted valuable insights and improved reporting processes to enhance data quality and usability.
-- [**Excel Data Analysis and Visualization**](https://github.com/DhammikePremachandra/Excel/blob/main/coffee%20Orders%20Dashboard.xlsx): In this Excel project, I undertook a comprehensive data analysis and visualization task, starting from data gathering to the creation of a dynamic and interactive dashboard. Leveraging advanced Excel functions such as XLOOKUP, INDEX MATCH, nested IF statements, and pivot tables, I transformed raw data into actionable insights and presented them in visually appealing charts and graphs.
+- [**EXPLORATORY DATA ANALYSIS OF MOVIE DATASET**](https://github.com/DhammikePremachandra/Python/blob/main/Movie%20Correlation%20Project.ipynb): In this portfolio project, I conducted an in-depth analysis of a movie dataset to uncover insights into the factors influencing movie success, including budget, gross earnings, ratings, and more. The project involved data extraction, cleaning, visualization, and correlation analysis using Python libraries such as pandas, numpy, seaborn, and matplotlib.
+- [**LONDON BIKE SHARING DASHBOARD**](https://public.tableau.com/app/profile/dhammike.premachandra/vizzes): In this portfolio project, I delved into the realm of data analysis and visualization to uncover usage patterns and enhance service efficiency for London bike sharing. Leveraging factors such as temperature, wind speed, and time of day, I designed and implemented a dynamic Tableau dashboard to provide actionable insights for stakeholders.
+- [**NASHVILLE HOUSING DATASET ANALYSIS**](https://github.com/DhammikePremachandra/SQL/blob/main/Data%20Cleaning_NashvilleHousing.sql): In this portfolio project, I conducted comprehensive data cleaning and analysis on the Nashville Housing data set using SQL. By applying various SQL operations such as JOIN, VIEW, data transformation, and filtering techniques, I extracted valuable insights and improved reporting processes to enhance data quality and usability.
+- [**EXCEL DATA ANALYSIS AND VISUALIZATION**](https://github.com/DhammikePremachandra/Excel/blob/main/coffee%20Orders%20Dashboard.xlsx): In this Excel project, I undertook a comprehensive data analysis and visualization task, starting from data gathering to the creation of a dynamic and interactive dashboard. Leveraging advanced Excel functions such as XLOOKUP, INDEX MATCH, nested IF statements, and pivot tables, I transformed raw data into actionable insights and presented them in visually appealing charts and graphs.
 
 ## Connect with Me
 
