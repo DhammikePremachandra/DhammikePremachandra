@@ -68,6 +68,6 @@ Here are a few projects I've worked on:
 Let's connect and discuss all things data! You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/dhammikepremachandra)
-- [Portfolio Website](dhammikepremachandra.github.io/Portfolio-website)
+- [Portfolio Website](https://dhammikepremachandra.github.io/Portfolio-website)
 
 Feel free to explore my repositories and reach out if you have any further clarifications or opportunities!
