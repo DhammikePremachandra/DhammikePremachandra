@@ -26,9 +26,9 @@
 </div>
 </p>
 
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="50"> Statistics
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="4"> Statistics
 <p align="center">
-    <img width="90.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhammikePremachandra&theme=radical&bg_color=#800080&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="46.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhammikePremachandra&theme=radical&bg_color=#800080&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 
