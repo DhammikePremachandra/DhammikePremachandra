@@ -5,20 +5,20 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/SQL-00AED8.svg?style=for-the-badge&logo=SQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-000000.svg?style=for-the-badge&logo=tableau&logoColor=F7E017">
-  <img src="https://img.shields.io/badge/Excel-F26624.svg?style=for-the-badge&logo=excel&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-00AED8.svg?style=for-the-badge&logo=SQL&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Tableau-000000.svg?style=for-the-badge&logo=tableau&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Excel-F26624.svg?style=for-the-badge&logo=excel&logoColor=ffdd54">
   
 </div>
 </p>
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLITE-2465F1.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-000000.svg?style=for-the-badge&logo=jupiter&logoColor=F37726">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/SQLITE-2465F1.svg?style=for-the-badge&logo=sqlite&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Jupyter-000000.svg?style=for-the-badge&logo=jupiter&logoColor=ffdd54">
 </div>
 </p>
 
